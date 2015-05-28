@@ -1,0 +1,31 @@
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\bin\Release\Test_Teleinfo.exe
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\bin\Release\Test_Teleinfo.pdb
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\bin\Release\Test_Teleinfo.xml
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\bin\Release\ftdi_cpt.dll
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\bin\Release\ftdi_cpt.pdb
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\bin\Release\ftdi_cpt.xml
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\obj\x86\Release\ResolveAssemblyReference.cache
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.Resources.resources
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.Test_Teleinfo.resources
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\obj\x86\Release\GenerateResource.read.1.tlog
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\obj\x86\Release\GenerateResource.write.1.tlog
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.exe
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.xml
+J:\Notice de programmation\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.pdb
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.exe
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.xml
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.pdb
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\bin\Release\Test_Teleinfo.exe
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\bin\Release\Test_Teleinfo.pdb
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\bin\Release\Test_Teleinfo.xml
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\bin\Release\ftdi_cpt.dll
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\bin\Release\ftdi_cpt.pdb
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\bin\Release\ftdi_cpt.xml
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\obj\x86\Release\ResolveAssemblyReference.cache
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.Resources.resources
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.Test_Teleinfo.resources
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\obj\x86\Release\GenerateResource.read.1.tlog
+J:\domo\Driver usb homidom\ftdi_cpt\Test_Teleinfo\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Mathieu\Documents\GitHub\Domomath-HoMIDoM\HoMIDoM\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.exe
+C:\Users\Mathieu\Documents\GitHub\Domomath-HoMIDoM\HoMIDoM\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.xml
+C:\Users\Mathieu\Documents\GitHub\Domomath-HoMIDoM\HoMIDoM\ftdi_cpt\Test_Teleinfo\obj\x86\Release\Test_Teleinfo.pdb

@@ -1,0 +1,10 @@
+C:\HoMIDoM\RELEASE\Drivers\Driver_ModbusTCP.dll
+C:\HoMIDoM\RELEASE\Drivers\Driver_ModbusTCP.pdb
+C:\HoMIDoM\RELEASE\Drivers\Driver_ModbusTCP.xml
+C:\HoMIDoM\Drivers\Driver_ModbusTCP\obj\Release\ResolveAssemblyReference.cache
+C:\HoMIDoM\Drivers\Driver_ModbusTCP\obj\Release\Driver_ModbusTCP.Resources.resources
+C:\HoMIDoM\Drivers\Driver_ModbusTCP\obj\Release\GenerateResource.read.1.tlog
+C:\HoMIDoM\Drivers\Driver_ModbusTCP\obj\Release\GenerateResource.write.1.tlog
+C:\HoMIDoM\Drivers\Driver_ModbusTCP\obj\Release\Driver_ModbusTCP.dll
+C:\HoMIDoM\Drivers\Driver_ModbusTCP\obj\Release\Driver_ModbusTCP.xml
+C:\HoMIDoM\Drivers\Driver_ModbusTCP\obj\Release\Driver_ModbusTCP.pdb

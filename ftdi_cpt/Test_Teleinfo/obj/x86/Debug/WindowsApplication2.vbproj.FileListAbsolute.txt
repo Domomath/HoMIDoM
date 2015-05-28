@@ -1,0 +1,14 @@
+J:\Notice de programmation\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+J:\Notice de programmation\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+J:\Notice de programmation\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+J:\Notice de programmation\WindowsApplication2\bin\Debug\ftdi_cpt.dll
+J:\Notice de programmation\WindowsApplication2\bin\Debug\ftdi_cpt.pdb
+J:\Notice de programmation\WindowsApplication2\bin\Debug\ftdi_cpt.xml
+J:\Notice de programmation\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Notice de programmation\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+J:\Notice de programmation\WindowsApplication2\obj\x86\Debug\WindowsApplication2.TForm1.resources
+J:\Notice de programmation\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Notice de programmation\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Notice de programmation\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+J:\Notice de programmation\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+J:\Notice de programmation\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
